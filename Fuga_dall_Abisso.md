@@ -1,100 +1,183 @@
+# 📜 Fuga dall'Abisso – Campagna Sessione per Sessione  
 
-# Fuga dall'Abisso - Campagna D&D 5e
-
-## Introduzione alla Campagna
-**Tono generale:** survival horror, esplorazione, paranoia.  
-**Obiettivo:** fuggire dall'Underdark e scoprire i segreti dell'invasione demoniaca.
-
----
-
-## Sessione 1: Prigionieri degli Drow
-- **Introduzione:** I personaggi iniziano prigionieri degli Drow nella Fortezza di Velkynvelve.
-- **NPC principali:** Mistress Ilvara, Shoor Vandree, Jorlan Duskryn, e gli altri prigionieri (Buppido, Stool, Shuushar, ecc.).
-- **Eventi principali:**  
-  - Introduzione ai personaggi e ai prigionieri.  
-  - Tentativi di fuga (es. rubare chiavi, scatenare il caos, sfruttare i conflitti tra i Drow).  
-  - Fuga dal Velkynvelve con un cliffhanger (inseguimento dei Drow o caduta da una scogliera).  
+## ⚠️ Introduzione  
+- **Sistema:** Dungeons & Dragons 5e  
+- **Livelli:** 1 → 15+  
+- **Tono:** Sopravvivenza, orrore, follia  
+- **Setting:** Underdark (sotterraneo pericoloso e alieno)  
 
 ---
 
-## Sessione 2: Sopravvivere nell'Underdark
-- **Tema:** sopravvivenza e primi passi nell'oscurità.  
-- **Obiettivo:** orientarsi nell'Underdark e raggiungere il primo insediamento sicuro.  
-- **Eventi principali:**  
-  - Decisioni su rotte e gestione delle risorse (cibo, acqua).  
-  - Incontri casuali (creature, funghi giganti, esplorazioni pericolose).  
-  - Prime avvisaglie della follia che pervade l'Underdark.  
-  - Arrivo in un insediamento o accampamento temporaneo (es. un rifugio naturale).  
+## **🔷 Atto 1: Prigionia e Fuga (Livelli 1-4)**  
+
+### **Sessione 1: Prigionieri a Velkynvelve**  
+📍 **Luogo:** Fortezza-prigione drow di Velkynvelve  
+🎯 **Obiettivi:**  
+- Conoscere gli altri prigionieri.  
+- Subire torture e umiliazioni dai drow.  
+- Trovare un'opportunità di fuga.  
+
+🔹 **Eventi chiave:**  
+- Incontro con **Ilvara Mizzrym**, la sacerdotessa drow.  
+- Lavoretti umilianti e maltrattamenti.  
+- **Attacco di demoni volanti (vrock)** che crea il caos.  
+- **SCELTA:** Fuggire subito o aspettare?  
 
 ---
 
-## Sessione 3: Una follia crescente
-- **Tema:** il caos e l'influenza dei demoni iniziano a manifestarsi.  
-- **Obiettivo:** raggiungere una città dell'Underdark, come Sloobludop (città kuo-toa).  
-- **Eventi principali:**  
-  - Incontri con creature bizzarre (es. un Derro che parla con "gli spiriti").  
-  - Visioni e incubi (inizi del tema della follia).  
-  - Raggiungimento di Sloobludop.  
-  - Evento clou: apparizione di **Demogorgon** durante un rituale fallito.  
-  - I giocatori devono fuggire o rischiare di essere annientati.  
+### **Sessione 2: Fuga e Inizio dell'Incubo**  
+📍 **Luogo:** Caverne oscure dell'Underdark  
+🎯 **Obiettivi:**  
+- Sopravvivere senza equipaggiamento.  
+- Evitare i drow inseguitori.  
+- Scegliere una destinazione.  
+
+🔹 **Eventi chiave:**  
+- Raccolta di cibo e acqua tra funghi e bestie ostili.  
+- Primi segni di **corruzione demoniaca**.  
+- **SCELTA:** Quale direzione prendere?  
 
 ---
 
-## Sessioni 4-6: Attraversare l'Underdark
-- **Tema:** viaggio epico attraverso i vari biomi dell'Underdark.  
-- **Obiettivo:** raggiungere una città maggiore (Gracklstugh o Blingdenstone).  
-- **Eventi principali:**  
-  - Interazione con fazioni (Kuo-toa, Duergar, Nani Svirfneblin).  
-  - Minacce naturali (moli giganti, laghi acidi, funghi carnivori).  
-  - Primo incontro con i cultisti demoniaci o segni dell'invasione demoniaca (es. statue fuse, creature corrotte).  
-  - Eventuali conflitti tra i compagni NPC.  
+### **Sessione 3: Arrivo a Sloobludop, la Città dei Kuo-Toa**  
+📍 **Luogo:** Insediamento di Sloobludop  
+🎯 **Obiettivi:**  
+- Cercare risorse e riparo.  
+- Scoprire la minaccia latente.  
+- Sopravvivere all’apparizione di **Demogorgon**.  
+
+🔹 **Eventi chiave:**  
+- I Kuo-Toa venerano una nuova "divinità".  
+- Durante un rituale, appare **Demogorgon!**  
+- La città viene devastata.  
+- **SCELTA:** Fuggire subito o tentare di salvare qualcuno?  
 
 ---
 
-## Sessioni 7-9: Intrighi a Gracklstugh
-- **Tema:** politica e conflitti interni in una città Duergar.  
-- **Obiettivo:** ottenere aiuto per tornare in superficie o scoprire indizi sulla corruzione demoniaca.  
-- **Eventi principali:**  
-  - Incontri con la Gilda dei Mercanti e il Concilio dei Grandi.  
-  - Problemi con i demoni dell'ira (evidence della corruzione di **Graazt**).  
-  - Eventuali tradimenti tra fazioni locali.  
-  - Svelare un culto demoniaco nella città e dover fuggire in fretta.  
+### **Sessione 4: Attraverso il Buio – Il Viaggio Continua**  
+📍 **Luogo:** Gallerie profonde dell'Underdark  
+🎯 **Obiettivi:**  
+- Sopravvivere a insidie naturali e mostri.  
+- Capire l’entità della corruzione demoniaca.  
+
+🔹 **Eventi chiave:**  
+- **Creature deformi** vagano senza meta.  
+- Voci sussurranti richiamano i PG.  
+- **SCELTA:** Investigare o evitare il pericolo?  
 
 ---
 
-## Sessioni 10-13: Follia crescente a Blingdenstone
-- **Tema:** affrontare la follia e prepararsi per un confronto.  
-- **Obiettivo:** ottenere supporto dagli Svirfneblin per il viaggio in superficie.  
-- **Eventi principali:**  
-  - Problemi interni della città (es. rivalità tra clan, spiriti vendicativi).  
-  - Ulteriore approfondimento della corruzione demoniaca.  
-  - Incontro con un potente nemico, come **Jubilex**, il signore dei melmi.  
-  - Decisioni difficili: aiutare la città o proseguire il viaggio?  
+### **Sessione 5: Neverlight Grove – L’Orrida Bellezza dei Funghi**  
+📍 **Luogo:** Città fungina dei Myconidi  
+🎯 **Obiettivi:**  
+- Scoprire la minaccia nascosta.  
+- Fermare il culto di **Zuggtmoy, Regina dei Funghi**.  
+
+🔹 **Eventi chiave:**  
+- Myconidi amichevoli, ma alcuni sono **stranamente servili**.  
+- Il leader locale è **corrotto da Zuggtmoy**.  
+- **SCELTA:** Distruggere il culto o fuggire prima che sia troppo tardi?  
 
 ---
 
-## Sessioni 14-15: Preparativi per la fuga
-- **Tema:** un piano disperato per raggiungere la superficie.  
-- **Obiettivo:** scoprire un passaggio sicuro o ottenere un aiuto magico per la fuga.  
-- **Eventi principali:**  
-  - Combattimenti epici contro creature dell'Underdark.  
-  - Ultimi incontri con cultisti e spie demoniache.  
-  - Trovare una via verso la superficie, come un portale dimenticato o un pozzo verticale.  
+### **Sessione 6: La Città dei Duergar – Gracklstugh**  
+📍 **Luogo:** Fortezza sotterranea dei nani grigi  
+🎯 **Obiettivi:**  
+- Trovare informazioni su come uscire dall’Underdark.  
+- Scoprire la minaccia interna.  
+
+🔹 **Eventi chiave:**  
+- I duergar sono **paranoici e violenti**.  
+- Un demone manipola il consiglio cittadino.  
+- **SCELTA:** Aiutare i nani o rubare le informazioni?  
 
 ---
 
-## Sessioni 16-18: Il ritorno alla superficie e il confronto finale
-- **Tema:** battaglia finale e decisioni cruciali.  
-- **Obiettivo:** affrontare i demoni e riportare equilibrio.  
-- **Eventi principali:**  
-  - I personaggi riescono a emergere ma trovano segni della corruzione demoniaca anche nel mondo di superficie.  
-  - Affrontano un Signore dei Demoni (Demogorgon, Graazt, o Jubilex) in un epico scontro finale.  
-  - Epilogo: i personaggi decidono se tornare alle loro vite o continuare a combattere la follia.  
+### **Sessione 7: Il Culto Segreto tra le Ombre**  
+📍 **Luogo:** Caverne infestate  
+🎯 **Obiettivi:**  
+- Eliminare i cultisti demoniaci.  
+- Scoprire come i Signori Demoniaci sono giunti nell’Underdark.  
+
+🔹 **Eventi chiave:**  
+- Cultisti con simboli del **Principe della Menzogna** (Fraz-Urb’luu).  
+- Rituali che alterano la realtà stessa.  
+- **SCELTA:** Fermare il rituale o tentare di sfruttarlo?  
 
 ---
 
-## Temi Ricorrenti e Consigli
-1. **Gestione risorse:** enfatizza la scarsità di cibo, acqua e riposo.  
-2. **Follia:** utilizza il sistema di Madness descritto nel manuale.  
-3. **NPC:** rendili vivi e ambigui, creando dinamiche di fiducia e conflitto.  
-4. **Adattabilità:** lascia spazio ai giocatori per improvvisare piani di fuga e gestire situazioni a modo loro.
+### **Sessione 8: Il Portale per la Superficie**  
+📍 **Luogo:** Antica caverna magica  
+🎯 **Obiettivi:**  
+- Attivare il portale.  
+- Sconfiggere i demoni che lo difendono.  
+
+🔹 **Eventi chiave:**  
+- Il portale è instabile.  
+- Cultisti cercano di fermare i PG.  
+- **SCELTA:** Rischiare di attraversarlo subito o aspettare?  
+
+---
+
+## **🔷 Atto 3: Il Ritorno alla Superficie (Livelli 9-15)**  
+
+### **Sessione 9: Il Mondo è Cambiato**  
+📍 **Luogo:** Città della superficie  
+🎯 **Obiettivi:**  
+- Capire l’entità della crisi.  
+- Radunare alleati.  
+
+🔹 **Eventi chiave:**  
+- La follia demoniaca si è diffusa.  
+- Le fazioni mortali non si fidano dei PG.  
+- **SCELTA:** Usare diplomazia o forza?  
+
+---
+
+### **Sessione 10: Preparativi per la Guerra**  
+📍 **Luogo:** Consigli di guerra  
+🎯 **Obiettivi:**  
+- Organizzare un assalto all’Abisso.  
+- Convincere le fazioni a collaborare.  
+
+🔹 **Eventi chiave:**  
+- Sacerdoti e maghi discutono soluzioni magiche.  
+- Nobili temono che l’invasione si allarghi.  
+- **SCELTA:** Partire subito o rinforzarsi?  
+
+---
+
+## **🔷 Atto 4: La Guerra Contro i Demoni (Livelli 15-17+)**  
+
+### **Sessione 11: Discesa nell’Abisso**  
+📍 **Luogo:** Piani dell’Abisso  
+🎯 **Obiettivi:**  
+- Trovare il cuore dell’epidemia demoniaca.  
+- Affrontare i Signori Demoniaci.  
+
+🔹 **Eventi chiave:**  
+- Creature aberranti infestano le terre.  
+- Portali distorcono la realtà.  
+- **SCELTA:** Cercare un’arma divina o attaccare subito?  
+
+---
+
+### **Sessione 12: L’Ultima Battaglia**  
+📍 **Luogo:** Cuore dell’Abisso  
+🎯 **Obiettivi:**  
+- Distruggere i Signori Demoniaci.  
+- Chiudere i portali.  
+
+🔹 **Eventi chiave:**  
+- Boss fight contro **Demogorgon, Graz’zt o Orcus**.  
+- Rituali apocalittici.  
+- **SCELTA:** Fuggire o restare nell’Abisso per sempre?  
+
+---
+
+## **🔥 Conclusione**  
+- I PG salvano il mondo o **diventano parte dell’oscurità**?  
+- **Chi sopravvive?**  
+- **L’Underdark è davvero libero?**  
+
+Buon gioco, Master dell’Abisso! 🎲🔥😈  
